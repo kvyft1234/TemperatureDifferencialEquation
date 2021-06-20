@@ -3,3 +3,5 @@
 
 
 https://kvyft1234.github.io/TemperatureDifferencialEquation/main.html
+
+T_0(x,y) = (cos(x/2)+cos(y/2)+sin((x+y)/4))*4
